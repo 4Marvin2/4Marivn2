@@ -19,6 +19,6 @@
 
 ## 📈 GitHub Stats
 
-![4Marvin2 GitHub stats](https://github-readme-stats.vercel.app/api?username=4Marvin2&hide=issues&show_icons=true&theme=onedark)
+![4Marvin2 GitHub stats](https://github-readme-stats.vercel.app/api?username=4Marvin2&hide=issues,stars&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Marvin2&langs_count=10&theme=onedark&layout=compact&hide=Jupyter+Notebook,HTML,CMake,Rich+Text+Format,Makefile,CSS,Dockerfile,Shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Marvin2&langs_count=10&theme=dracula&layout=compact&hide=Jupyter+Notebook,HTML,CMake,Rich+Text+Format,Makefile,CSS,Dockerfile,Shell)
